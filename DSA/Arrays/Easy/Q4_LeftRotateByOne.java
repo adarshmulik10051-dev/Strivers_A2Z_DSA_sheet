@@ -2,6 +2,12 @@ package DSA.Arrays.Easy;
 
 public class Q4_LeftRotateByOne{
     public static void LeftRotateByOne(int arr[],int n){
+    //approch :o(n)
+    //1.store first element of arr in temp
+    //2.then iterate 1 to n and shift [i-1]=[i]
+    //3.pushback temp in [n-1]
+    //4.print arr 
+    
         int temp = arr[0];
         for(int i = 1 ; i < n ; i ++){
             arr[i-1]=arr[i];
