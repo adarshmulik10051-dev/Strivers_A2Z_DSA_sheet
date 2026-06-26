@@ -41,14 +41,16 @@ public class Q7_UnionOfTwoSortedArray {
         }
         while(i<n1){
             if(k==0||union[k-1]!=arr1[i]){
-                 union[k++]=arr1[i++];
+                 union[k++]=arr1[i];
                 }
+                i++;
            
         }
         while(j<n2){
             if(k==0||union[k-1]!=arr2[j]){
-            union[k++]=arr2[j++];
+            union[k++]=arr2[j];
             }
+            j++;
         }
 
         int result[]= new int[k];
