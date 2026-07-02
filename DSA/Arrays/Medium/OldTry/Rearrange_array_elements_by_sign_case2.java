@@ -1,4 +1,4 @@
-package DSA.Arrays.Medium;
+package DSA.Arrays.Medium.OldTry;
 
 public class  Rearrange_array_elements_by_sign_case2{
     public static void print(int arr[]){

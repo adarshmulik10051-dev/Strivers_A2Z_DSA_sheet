@@ -1,5 +1,5 @@
 
-package DSA.Arrays.Medium;
+package DSA.Arrays.Medium.OldTry;
 public class A2Z_Arrays_medium {
     public static void Two_sum(int nums[],int target){
         for(int i = 0 ;i<nums.length-1;i++){

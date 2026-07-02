@@ -1,4 +1,4 @@
-package DSA.Arrays.Medium;
+package DSA.Arrays.Medium.OldTry;
 
 public class Majority_element_in_array {
     public static int majority_element(int arr[],int n){

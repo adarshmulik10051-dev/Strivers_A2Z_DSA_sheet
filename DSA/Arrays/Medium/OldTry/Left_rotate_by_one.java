@@ -1,4 +1,4 @@
-package DSA.Arrays.Medium;
+package DSA.Arrays.Medium.OldTry;
 
 public class Left_rotate_by_one {
     public static int [] left_rotate_by_one(int array[],int n){

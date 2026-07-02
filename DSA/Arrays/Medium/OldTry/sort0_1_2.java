@@ -1,4 +1,4 @@
-package DSA.Arrays.Medium;
+package DSA.Arrays.Medium.OldTry;
 
 public class sort0_1_2 {
     public static void print_arr(int arr[]){

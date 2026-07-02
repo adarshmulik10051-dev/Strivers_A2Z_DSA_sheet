@@ -1,4 +1,4 @@
-package DSA.Arrays.Medium;
+package DSA.Arrays.Medium.OldTry;
 
 public class Print_max_sum_subarray {
     public static void print_suarray(int arr[],int n){

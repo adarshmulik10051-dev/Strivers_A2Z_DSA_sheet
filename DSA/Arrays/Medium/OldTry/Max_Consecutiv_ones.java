@@ -1,4 +1,4 @@
-package DSA.Arrays.Medium;
+package DSA.Arrays.Medium.OldTry;
 
 public class Max_Consecutiv_ones {
     public static void count_max_ones(int nums[],int n){

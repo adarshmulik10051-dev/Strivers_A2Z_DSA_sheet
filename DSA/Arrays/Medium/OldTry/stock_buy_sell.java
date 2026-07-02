@@ -1,4 +1,4 @@
-package DSA.Arrays.Medium;
+package DSA.Arrays.Medium.OldTry;
 import java.util.*;
 public class stock_buy_sell {
     public static int maxprofit(int prices[]){

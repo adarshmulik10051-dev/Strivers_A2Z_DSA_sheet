@@ -1,4 +1,4 @@
-package DSA.Arrays.Medium;
+package DSA.Arrays.Medium.OldTry;
 
 public class Longest_subarray_sum_k {
     public static int longest_subarray_sum_k(int arr[],int k){ // when you apply 2 pointer imagine as

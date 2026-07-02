@@ -1,4 +1,4 @@
-package DSA.Arrays.Medium;
+package DSA.Arrays.Medium.OldTry;
 
 public class Optimal_left_rotate_by_D {
     public static void Reverse_the_array(int nums[],int start,int end ){
